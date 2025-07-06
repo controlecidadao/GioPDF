@@ -21,9 +21,11 @@ Execute o arquivo de instalação e selecione a pasta GIOPDF, incluindo a pasta 
 Exemplo: "...\GIOPDF\Tesseract-OCR"
 Será criada a pasta "Tesseract-OCR" na pasta GIOPDF.
 
-6) Instale o Ghostscript.
+6) Mova o arquivo "por.traineddata" para a pasta "Tesseract-OCR\tessdata".
+
+7) Instale o Ghostscript.
 Baixe, instale o diretório local o arquivo "Ghostscript 10.05.1 for Windows (64 bit)", disponível em https://ghostscript.com/releases/gsdnld.html
 Salve o arquivo baixado na pasta GIOPDF.
 Execute o arquivo de instalação e selecione a pasta GIOPDF. Será criada a pasta "gs10.05.1" na pasta GIOPDF.
 
-7) Para abrir o programa, clique duas vezes sobre o arquivo "abre_gio_pdf.bat".
+8) Para abrir o programa, clique duas vezes sobre o arquivo "abre_gio_pdf.bat".
