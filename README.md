@@ -37,6 +37,13 @@ Arquivo para teste: [PDF imagem](https://github.com/controlecidadao/GioPDF/raw/r
 
 <br><br>
 
+<p align="center" width="100%">
+<img width="100%" src="tela_giopdf_2.png" />
+</p>
+<p align="center">Conversão de arquivo concluída</p>
+
+<br><br>
+
 
 ### 🪛 Instalação
 
