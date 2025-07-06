@@ -7,6 +7,6 @@
 
 ### 🏷 Sites para validação de arquivos PDF/A:
 
-* [Validação de PDF/A - TCE-ES](https://conformidadepdf.tcees.tc.br/)
+* [TCE-ES](https://conformidadepdf.tcees.tc.br/)
 
-* [Validação de PDF/A - TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924)
+* [TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924)
