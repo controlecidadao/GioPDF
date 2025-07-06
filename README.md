@@ -30,7 +30,7 @@ Descompacte o arquivo **_GioPDF.zip_** e execute o programa clicando duas vezes 
 
 O arquivo **_GioPDF.zip_** possui aproximadamente 674MB.
 
-O código SHA-256 de integridade do arquivo é _b063a11c98a67f04c94fba2858a92cb1d0155ac88afcde4fe48eeb503526c2595c9f45db3184e473266389c3c82e554496f9298a7b35cfd3b4e4291b53008f45_. Valide a integridade do arquivo baixado submetendo-o a este [site de verificação](https://emn178.github.io/online-tools/sha512_file_hash.html) e comparando a saída (Output) com o código SHA-256 fornecido.
+O código **SHA-256** de integridade do arquivo é _b063a11c98a67f04c94fba2858a92cb1d0155ac88afcde4fe48eeb503526c2595c9f45db3184e473266389c3c82e554496f9298a7b35cfd3b4e4291b53008f45_. Valide a integridade do arquivo baixado submetendo-o a este [site de verificação](https://emn178.github.io/online-tools/sha512_file_hash.html) e comparando a saída (Output) com o código SHA-256 fornecido.
 
 <br><br>
 
