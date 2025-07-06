@@ -16,8 +16,7 @@ from pathlib import Path
 
 # Configuração da página
 st.set_page_config(
-    #page_title="Conversor PDF para PDF Pesquisável",
-    page_title="GioPDF",
+    page_title="Gio PDF",
     page_icon="🪁",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -60,15 +59,17 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título principal
-st.markdown('<h2 class="main-header">🪁 GioPDF - Conversor PDF para PDF Pesquisável</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="main-header">🪁 GioPDF</h2>', unsafe_allow_html=True)
+st.markdown('<h4 class="main-header">Conversor PDF para PDF Pesquisável</h4>', unsafe_allow_html=True)
 
 # Função para configurar o Tesseract (ajustar caminho conforme necessário)
 def setup_tesseract():
     """Configura o caminho do Tesseract baseado no sistema operacional"""
+    
     # Para Windows (ajustar caminho conforme instalação)
     if os.name == 'nt':
         tesseract_paths = [
-            fr'{os.getcwd()}\Tesseract-OCR\tesseract.exe',
+            fr'{os.getcwd()}\Tesseract-OCR\tesseract.exe', # Caminho do arquivo tesseract.exe no diretório local
             #r'C:\Program Files\Tesseract-OCR\tesseract.exe',
             #r'C:\Users\{}\AppData\Local\Tesseract-OCR\tesseract.exe'.format(os.getenv('USERNAME')),
             #r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
@@ -111,6 +112,7 @@ def pdf_to_images(pdf_file, dpi=200):
         
         pdf_document.close()
         return images
+    
     except Exception as e:
         st.error(f"Erro ao converter PDF em imagens: {str(e)}")
         return None
@@ -124,7 +126,7 @@ def perform_ocr(image, language='por'):
         text = pytesseract.image_to_string(image, lang=language, config=config)
         return text
     except Exception as e:
-        #st.error(f"Erro no OCR: {str(e)}")
+        st.error(f"Erro no OCR: {str(e)}")
         return ""
 
 # Função para comprimir imagem
@@ -405,7 +407,7 @@ def convert_to_pdfa_with_ghostscript(input_pdf_bytes):
                 capture_output=True,
                 text=True,
                 check=True,
-                timeout=120,  # Timeout de 2 minutos
+                timeout=300,  # Timeout de 5 minutos
                 creationflags=subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
             )
         except subprocess.TimeoutExpired:
