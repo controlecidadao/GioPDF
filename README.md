@@ -10,7 +10,6 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 <br><br>
 
 <p align="center" width="100%">
-<!--<img width="100%" src="https://github.com/controlecidadao/GioPDF/blob/main/tela_giopdf.png" />-->
 <img width="100%" src="tela_giopdf.png" />
 </p>
 <p align="center">Interface gráfica intuitiva do GioPDF</p>
@@ -21,7 +20,6 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 ### 📥 Baixe a versão compactada do GioPDF
 
 <p align="center" width="100%">
-<!--<img width="100%" src="https://github.com/controlecidadao/GioPDF/blob/main/pendrive_giopdf" />-->
 <img width="20%" src="pendrive_giopdf.png" />
 </p>
 
@@ -38,9 +36,9 @@ Arquivo para teste: [PDF imagem](https://github.com/controlecidadao/GioPDF/raw/r
 <br><br>
 
 <p align="center" width="100%">
-<img width="100%" src="tela_giopdf_2.png" />
+<img width="80%" src="tela_giopdf_2.png" />
 </p>
-<p align="center">Conversão de arquivo concluída</p>
+<p align="center">Exemplo de conversão de arquivo PDF</p>
 
 <br><br>
 
