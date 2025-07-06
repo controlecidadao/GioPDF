@@ -642,5 +642,5 @@ with col3:
 
 st.markdown("---")
 st.markdown(
-    f"Desenvolvido usando Python, Streamlit, Tesseract OCR e PyMuPDF"
+    f"Desenvolvido com Python, Streamlit, Tesseract OCR e PyMuPDF"
 )
