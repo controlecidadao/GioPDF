@@ -33,7 +33,7 @@ Descompacte o arquivo **_GioPDF.zip_** (650 MB) e execute o programa clicando du
 
 ### 🪛 Instalação
 
-Caso opte em fazer a instalação desde o início, confira as instruções [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
+Caso opte em fazer a instalação usando os arquivos contidos no repositório, confira as instruções [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
 
 <br>
 
