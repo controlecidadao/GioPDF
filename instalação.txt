@@ -1,0 +1,14 @@
+COMO INSTALAR O GIO PDF:
+
+1) Execute o arquivo "setup_miniconda.bat".
+Este arquivo baixa o Miniconda e cria o ambiente virtual "giopdf"
+
+2) Instale o Tesseract OCR.
+Baixe instale no diretório local o arquivo "tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)", disponível em https://github.com/UB-Mannheim/tesseract/wiki
+Após, renomeie a pasta criada para "Tesseract-OCR".
+
+3) Instale o Ghostscript.
+Baixe, instale o diretório local o arquivo "Ghostscript 10.05.1 for Windows (64 bit)", disponível em https://ghostscript.com/releases/gsdnld.html
+Após, renomeie a pasta criada para "gs10.05.1".
+
+4) Para abrir o programa, clique duas vezes sobre o arquivo "abre_gio_pdf.bat".
