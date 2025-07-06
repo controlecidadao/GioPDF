@@ -1,6 +1,6 @@
 # 🪁 GioPDF
 
-### 📑 Conversor de arquivos PDF para PDF/A
+### 📑 Conversor OCR de arquivos PDF para PDF/A
 
 <br>
 
