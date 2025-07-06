@@ -78,8 +78,8 @@ if %errorLevel% equ 0 (
     call "%MINICONDA_DIR%\Scripts\conda.exe" env remove -n giopdf -y
 )
 
-echo Criando ambiente virtual 'giopdf' com Python 3.10...
-call "%MINICONDA_DIR%\Scripts\conda.exe" create -n giopdf python=3.10 -y
+echo Criando ambiente virtual 'giopdf' com Python 3.11...
+call "%MINICONDA_DIR%\Scripts\conda.exe" create -n giopdf python=3.11 -y
 
 if %errorLevel% neq 0 (
     echo ERRO: Falha ao criar o ambiente virtual!
@@ -132,7 +132,7 @@ echo.
 echo Informações do ambiente:
 echo   - Miniconda3 instalado em: %MINICONDA_DIR%
 echo   - Ambiente virtual: giopdf
-echo   - Versão Python: 3.10
+echo   - Versão Python: 3.11
 echo.
 echo Como usar:
 echo   1. Execute: %ACTIVATE_SCRIPT%
