@@ -4,25 +4,24 @@ COMO INSTALAR O GIOPDF
 
 Passo a passo:
 
-1) Crie a pasta "GioPDF" no computador
+1) Crie a pasta "GioPDF" no seu computador.
 
-2) Baixe o arquivo ZIP disponível no repositório do projeto:
-https://github.com/controlecidadao/gio_pdf/archive/refs/heads/main.zip
+2) Baixe o arquivo "GioPDF-main.zip" colando o link a seguir na barra de endereços do seu navegador: https://github.com/controlecidadao/gio_pdf/archive/refs/heads/main.zip.
 
-3) Descompacte o arquivo ZIP. Ao descompactar, serão geradas duas pastas "GioPDF-main", uma dentro da outra.
+3) Descompacte o arquivo "GioPDF-main.zip". Ao descompactá-lo, serão geradas duas pastas "GioPDF-main", uma dentro da outra. A mais interna é que contém os arquivos do programa.
 
-4) Copie todos os arquivos da pasta "GioPDF-main" para a pasta "GioPDF" criada por você no passo 1.
+4) Copie todos os arquivos da pasta "GioPDF-main" mais interna para a pasta "GioPDF" criada por você no passo 1.
 
 5) Execute o arquivo "setup_miniconda.bat".  Por se tratar de arquivo executável (.bat), o Windows poderá solicitar sua confirmação.
-Este arquivo:
+Este arquivo executa as seguintes operações:
   * Cria a pasta "Downloads" no diretório local
-  * Baixa o Miniconda
+  * Baixa o programa Miniconda
   * Cria a pasta "miniconda3" no diretório local
   * Cria o ambiente virtual "giopdf"
-Feche o terminal quando exibida a mensagem "INSTALAÇÃO CONCLUÍDA" e "Pressione qualquer tecla para sair..."
+Feche o terminal quando as mensagens "INSTALAÇÃO CONCLUÍDA" e "Pressione qualquer tecla para sair..." forem exibidas.
 
-6) Instale o Tesseract OCR realizando o seguinte procedimento:
-  * Baixe instale no diretório local o arquivo "tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)", disponível em https://github.com/UB-Mannheim/tesseract/wiki
+6) Instale o Tesseract OCR por meio do seguinte procedimento:
+  * Baixe o arquivo "tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)", disponível em https://github.com/UB-Mannheim/tesseract/wiki.
   * Salve o arquivo baixado na pasta GioPDF.
   * Execute o arquivo de instalação e selecione a pasta GioPDF, incluindo a pasta "Tesseract-OCR" ao final do endereço de instalação. Exemplo: "...\GIOPDF\Tesseract-OCR"
 Será criada a pasta "Tesseract-OCR" na pasta GioPDF.
