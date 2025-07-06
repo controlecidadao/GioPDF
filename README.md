@@ -9,9 +9,7 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 
 <br>
 
-> _"De acordo com a Kaspersky, a forma mais segura de converter arquivos é **utilizando softwares em seu computador**"._
->
-> [_FBI alerta para sites que convertem PDF e MP3 e distribuem malware_](https://mpmt.mp.br/conteudo/1217/157326/fbi-alerta-para-sites-que-convertem-pdf-e-mp3-e-distribuem-malware)
+> _"De acordo com a Kaspersky, a forma mais segura de converter arquivos é **utilizando softwares em seu computador**"._ ([_FBI alerta para sites que convertem PDF e MP3 e distribuem malware_](https://mpmt.mp.br/conteudo/1217/157326/fbi-alerta-para-sites-que-convertem-pdf-e-mp3-e-distribuem-malware))
 
 <br><br>
 
