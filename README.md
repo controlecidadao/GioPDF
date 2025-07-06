@@ -26,7 +26,9 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 
 Uma versão funcional do GioPDF que **dispensa instalação** está disponível para [**download aqui**](https://drive.usercontent.google.com/download?id=14KlPM2-SjNISGPWnuEdM4Ks7fB6hd-te).
 
-Descompacte o arquivo **_GioPDF.zip_** (650 MB) e execute o programa clicando duas vezes no arquivo **_abre_giopdf.bat_**. Uma nova aba do navegador será aberta com a interface do programa.
+Descompacte o arquivo **_GioPDF.zip_** e execute o programa clicando duas vezes no arquivo **_abre_giopdf.bat_**. Uma nova aba do navegador será aberta com a interface do programa.
+
+O arquivo **_GioPDF.zip_** possui aproximadamente 674MB. O código SHA-256 de integridade do arquivo é _b063a11c98a67f04c94fba2858a92cb1d0155ac88afcde4fe48eeb503526c2595c9f45db3184e473266389c3c82e554496f9298a7b35cfd3b4e4291b53008f45_. Valide a integridade do arquivo baixado submetendo-o a este [site de verificação](https://emn178.github.io/online-tools/sha512_file_hash.html) e comparando a saída (Output) com o código SHA-256 fornecido.
 
 <br><br>
 
