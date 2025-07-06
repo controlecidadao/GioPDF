@@ -21,7 +21,7 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 
 <p align="center" width="100%">
 <!--<img width="100%" src="https://github.com/controlecidadao/GioPDF/blob/main/pendrive_giopdf" />-->
-<img width="18%" src="pendrive_giopdf.png" />
+<img width="20%" src="pendrive_giopdf.png" />
 </p>
 
 Uma **versão funcional do GioPDF**, que dispensa instalação, está disponível para download [aqui]().
