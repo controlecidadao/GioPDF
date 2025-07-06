@@ -1,11 +1,11 @@
 COMO INSTALAR O GIOPDF:
 
-1) Crie a pasta GIOPDF"
+1) Crie a pasta "GioPDF"
 
 2) Baixe o arquivo ZIP disponível no repositório do projeto:
 https://github.com/controlecidadao/gio_pdf/archive/refs/heads/main.zip
 
-3) Descompacte o arquivo ZIP na pasta GIOPDF
+3) Descompacte o arquivo ZIP na pasta GioPDF
 
 4) Execute o arquivo "setup_miniconda.bat". Este arquivo:
 * Cria a pasta "Downloads" no diretório local
@@ -16,16 +16,16 @@ Feche o terminal quando o terminal exibir "INSTALAÇÃO CONCLUÍDA" e "Pressione
 
 5) Instale o Tesseract OCR.
 Baixe instale no diretório local o arquivo "tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)", disponível em https://github.com/UB-Mannheim/tesseract/wiki
-Salve o arquivo baixado na pasta GIOPDF.
-Execute o arquivo de instalação e selecione a pasta GIOPDF, incluindo a pasta "Tesseract-OCR" ao final do endereço de instalação.
+Salve o arquivo baixado na pasta GioPDF.
+Execute o arquivo de instalação e selecione a pasta GioPDF, incluindo a pasta "Tesseract-OCR" ao final do endereço de instalação.
 Exemplo: "...\GIOPDF\Tesseract-OCR"
-Será criada a pasta "Tesseract-OCR" na pasta GIOPDF.
+Será criada a pasta "Tesseract-OCR" na pasta GioPDF.
 
 6) Mova o arquivo "por.traineddata" para a pasta "Tesseract-OCR\tessdata".
 
 7) Instale o Ghostscript.
 Baixe, instale o diretório local o arquivo "Ghostscript 10.05.1 for Windows (64 bit)", disponível em https://ghostscript.com/releases/gsdnld.html
-Salve o arquivo baixado na pasta GIOPDF.
-Execute o arquivo de instalação e selecione a pasta GIOPDF. Será criada a pasta "gs10.05.1" na pasta GIOPDF.
+Salve o arquivo baixado na pasta GioPDF.
+Execute o arquivo de instalação e selecione a pasta GioPDF. Será criada a pasta "gs10.05.1" na pasta GioPDF.
 
-8) Para abrir o programa, clique duas vezes sobre o arquivo "abre_gio_pdf.bat".
+8) Para abrir o programa, clique duas vezes sobre o arquivo "abre_giopdf.bat".
