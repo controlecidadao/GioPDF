@@ -38,7 +38,7 @@ Arquivo para teste: [PDF imagem](https://github.com/controlecidadao/GioPDF/raw/r
 <p align="center" width="100%">
 <img width="80%" src="tela_giopdf_2.png" />
 </p>
-<p align="center">Exemplo de conversão de arquivo PDF</p>
+<p align="center">Conversão de arquivo PDF no GioPDF</p>
 
 <br><br>
 
