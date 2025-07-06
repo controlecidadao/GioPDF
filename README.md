@@ -60,7 +60,7 @@ Caso opte por fazer a instalação usando os arquivos contidos no repositório, 
 
 <br>
 
-_"De acordo com a Kaspersky, a forma mais segura de converter arquivos, é **utilizando softwares em seu computador**"._
+_"De acordo com a Kaspersky, a forma mais segura de converter arquivos é **utilizando softwares em seu computador**"._
 
 Fonte: [FBI alerta para sites que convertem PDF e MP3 e distribuem malware](https://mpmt.mp.br/conteudo/1217/157326/fbi-alerta-para-sites-que-convertem-pdf-e-mp3-e-distribuem-malware)
 
