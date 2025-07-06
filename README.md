@@ -2,6 +2,10 @@
 
 ### Conversor de arquivos PDF (imagem) para PDF/A (pesquisável)
 
+<p align="center" width="100%">
+<!--<img width="100%" src="https://github.com/controlecidadao/GioPDF/blob/main/tela_giopdf.png" />-->
+<img width="80%" src="tela_giopdf.png" />
+</p>
 
 <br><br>
 
