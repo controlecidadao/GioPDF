@@ -49,8 +49,8 @@ Caso opte em fazer a instalação usando os arquivos contidos no repositório, c
 
 * [TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924) (ferramenta disponível no final da página)
 
-<br><br>
+<br>
 
-<p align="left" width="100%">
+<p align="center" width="100%">
 <img src="python_powered.png" />
 </p>
