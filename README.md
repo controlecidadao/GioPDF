@@ -22,7 +22,7 @@ Confira as instruções de instalação [aqui](https://github.com/controlecidada
 
 <br>
 
-### 🏷 Sites para validação de arquivos PDF/A:
+### 🏷 Sites seguros para validação de arquivos PDF/A:
 
 * [TCE-ES](https://conformidadepdf.tcees.tc.br/)
 
