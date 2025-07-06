@@ -5,7 +5,7 @@
 <br>
 
 **GioPDF** destina-se à conversão _offline_ de arquivos PDF de imagem para arquivos PDF/A pesquisáveis (formato [PDF/A-1b](https://docs.fileformat.com/pt/pdf/a/)).
-Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OCR) presentes na imagem do arquivo PDF original e **adicionar uma camada de texto**, permitindo a seleção e a cópia do seu conteúdo.
+Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OCR) presentes na imagem do arquivo PDF original e **adicionar uma camada de texto**, permitindo a seleção e a cópia do seu conteúdo. A conversão é realizada localmente no computador do usuário, sem conexão com a internet.
 
 <br><br>
 
