@@ -9,4 +9,4 @@
 
 * [TCE-ES](https://conformidadepdf.tcees.tc.br/)
 
-* [TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924)
+* [TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924) (ferramenta disponível no final da página)
