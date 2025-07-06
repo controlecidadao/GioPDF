@@ -13,6 +13,9 @@ from reportlab.pdfbase.ttfonts import TTFont
 import fitz  # PyMuPDF
 import base64
 from pathlib import Path
+import subprocess
+import json
+import shutil
 
 # Configuração da página
 st.set_page_config(
@@ -273,10 +276,10 @@ ocr_language = st.sidebar.selectbox(
 language_names = {
     "por": "Português",
     "eng": "Inglês", 
-    "spa": "Espanhol",
-    "fra": "Francês",
-    "deu": "Alemão",
-    "ita": "Italiano"
+    #"spa": "Espanhol",
+    #"fra": "Francês",
+    #"deu": "Alemão",
+    #"ita": "Italiano"
 }
 
 st.sidebar.info(f"Idioma selecionado: {language_names[ocr_language]}")
@@ -315,16 +318,10 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 
 
-import subprocess
+
 
 gs_path = fr"{os.getcwd()}\gs10.05.1\bin\gswin64c.exe"  # Caminho do executável
-#subprocess.run([gs_path, ...])
-
 icc_path = fr"{os.getcwd()}\gs10.05.1\iccprofiles\srgb.icc"
-
-
-import json
-import shutil
 
 def convert_to_pdfa_with_ghostscript(input_pdf_bytes):
     """Converte um PDF comum para PDF/A-2B usando Ghostscript com tratamento de erros melhorado"""
@@ -444,12 +441,6 @@ def convert_to_pdfa_with_ghostscript(input_pdf_bytes):
                 shutil.rmtree(temp_dir, ignore_errors=True)
         except Exception as e:
             st.warning(f"Não foi possível limpar arquivos temporários: {str(e)}")
-
-
-
-
-
-
 
 # Processamento dos arquivos
 if uploaded_files:
@@ -606,11 +597,6 @@ if uploaded_files:
                     )
             else:
                 st.error("❌ Nenhum arquivo foi processado com sucesso.")
-
-
-
-
-
 
 # Informações adicionais
 st.markdown("---")
