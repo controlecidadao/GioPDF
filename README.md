@@ -48,3 +48,7 @@ Caso opte em fazer a instalação usando os arquivos contidos no repositório, c
 * [TCE-ES](https://conformidadepdf.tcees.tc.br/) (verifica também a existência de assinatura digital)
 
 * [TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924) (ferramenta disponível no final da página)
+
+<br><br>
+
+
