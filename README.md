@@ -1,3 +1,3 @@
 # 🪁 GioPDF
 
-### Conversor de arquivos PDF para PDF/A (pesquisável)
+### Conversor de arquivos PDF (imagem) para PDF/A (pesquisável)
