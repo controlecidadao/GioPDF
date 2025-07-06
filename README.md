@@ -25,7 +25,8 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 </p>
 
 Uma **versão funcional do GioPDF**, que dispensa instalação, está disponível para download [aqui]().
-Desconpacte o arquivo _GioPDF.zip_ e abra o programa clicando duas no arquivo **_abre_giopdf.bat_**.
+
+Desconpacte o arquivo _GioPDF.zip_ e abra o programa clicando duas vezes no arquivo **_abre_giopdf.bat_**.
 
 <br><br>
 
