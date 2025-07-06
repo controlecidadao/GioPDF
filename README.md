@@ -33,6 +33,8 @@ O código **SHA-256** de integridade do arquivo é _b063a11c98a67f04c94fba2858a9
 
 Arquivo para teste de conversão: [pdf_para_teste.pdf](https://github.com/controlecidadao/GioPDF/raw/refs/heads/main/pdf_para_teste.pdf)
 
+**Atenção:** Durante os testes, alguns arquivos convertidos para PDF/A e validados em sites especializados não permitiram a seleção do texto quando exibidos em algumas versões de programas.
+
 <br><br>
 
 <p align="center" width="100%">
