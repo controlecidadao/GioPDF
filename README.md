@@ -7,6 +7,12 @@
 **GioPDF** destina-se à conversão _offline_ de arquivos PDF de imagem para arquivos PDF/A pesquisáveis (formato [PDF/A-1b](https://docs.fileformat.com/pt/pdf/a/)).
 Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OCR) presentes na imagem do arquivo PDF original e **adicionar uma camada de texto**, permitindo a seleção e a cópia do seu conteúdo. A conversão é realizada localmente no computador do usuário, sem conexão com a internet.
 
+<br>
+
+> _"De acordo com a Kaspersky, a forma mais segura de converter arquivos é **utilizando softwares em seu computador**"._
+>
+> [_FBI alerta para sites que convertem PDF e MP3 e distribuem malware_](https://mpmt.mp.br/conteudo/1217/157326/fbi-alerta-para-sites-que-convertem-pdf-e-mp3-e-distribuem-malware)
+
 <br><br>
 
 <p align="center" width="100%">
@@ -57,12 +63,6 @@ Caso opte por fazer a instalação usando os arquivos contidos no repositório, 
 * [TCE-ES](https://conformidadepdf.tcees.tc.br/) (verifica também a existência de assinatura digital)
 
 * [TCM-GO](https://tcmgo.tc.br/colare-doc/faces/public/pagInicio.xhtml?dswid=2924) (ferramenta disponível no final da página)
-
-<br>
-
-_"De acordo com a Kaspersky, a forma mais segura de converter arquivos é **utilizando softwares em seu computador**"._
-
-Fonte: [FBI alerta para sites que convertem PDF e MP3 e distribuem malware](https://mpmt.mp.br/conteudo/1217/157326/fbi-alerta-para-sites-que-convertem-pdf-e-mp3-e-distribuem-malware)
 
 <br>
 
