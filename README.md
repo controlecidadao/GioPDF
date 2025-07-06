@@ -16,6 +16,10 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 
 <br><br>
 
+### Instalação
+
+Confira as instruções de instalação [aqui]()
+
 ### 🏷 Sites para validação de arquivos PDF/A:
 
 * [TCE-ES](https://conformidadepdf.tcees.tc.br/)
