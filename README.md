@@ -18,7 +18,9 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 
 ### Instalação
 
-Confira as instruções de instalação [aqui]()
+Confira as instruções de instalação [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
+
+<br>
 
 ### 🏷 Sites para validação de arquivos PDF/A:
 
