@@ -5,6 +5,7 @@
 <br>
 
 **GioPDF** destina-se à conversão de arquivos PDF de imagem para arquivos PDF/A pesquisáveis (formato [PDF/A-1b](https://docs.fileformat.com/pt/pdf/a/)).
+Em síntese, seu funcionamento consiste em incluir uma **camada de texto sobre a imagem do arquivo PDF original**, além de outros parâmetros.
 
 <br><br>
 
