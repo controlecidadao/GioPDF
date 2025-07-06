@@ -16,9 +16,23 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 
 <br><br>
 
+
+### Baixe a versão compactada do GioPDF
+
+<p align="center" width="100%">
+<!--<img width="100%" src="https://github.com/controlecidadao/GioPDF/blob/main/pendrive_giopdf" />-->
+<img width="15%" src="pendrive_giopdf.png" />
+</p>
+
+Uma **versão funcional do GioPDF**, que dispensa instalação, está disponível para download [aqui]().
+Desconpacte o arquivo _GioPDF.zip_ e abra o programa clicando duas no arquivo **_abre_giopdf.bat_**.
+
+<br><br>
+
+
 ### Instalação
 
-Confira as instruções de instalação [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
+Caso opte em fazer a instalação desde o início, confira as instruções [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
 
 <br>
 
