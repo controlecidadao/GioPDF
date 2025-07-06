@@ -51,4 +51,6 @@ Caso opte em fazer a instalação usando os arquivos contidos no repositório, c
 
 <br><br>
 
-
+<p align="left" width="100%">
+<img src="python_powered.png" />
+</p>
