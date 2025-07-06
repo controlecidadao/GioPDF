@@ -36,4 +36,5 @@ Será criada a pasta "Tesseract-OCR" na pasta GioPDF.
 
 9) Para abrir o programa, clique duas vezes sobre o arquivo "abre_giopdf.bat".
 
-
+Ao final da instalação, a pasta GioPDF terá aproximadamente 1,5GB.
+Devido à sua portabilidade, o programa pode ser copiado para um pendrive e executado a partir dele.
