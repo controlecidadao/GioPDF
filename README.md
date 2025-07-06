@@ -13,7 +13,7 @@ Seu funcionamento consiste em realizar o reconhecimento ótico de caracteres (OC
 <!--<img width="100%" src="https://github.com/controlecidadao/GioPDF/blob/main/tela_giopdf.png" />-->
 <img width="100%" src="tela_giopdf.png" />
 </p>
-<p align="center">Interface gráfica do GioPDF</p>
+<p align="center">Interface gráfica intuitiva do GioPDF</p>
 
 <br><br>
 
