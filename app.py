@@ -17,7 +17,7 @@ from pathlib import Path
 # Configuração da página
 st.set_page_config(
     #page_title="Conversor PDF para PDF Pesquisável",
-    page_title="Gio PDF",
+    page_title="GioPDF",
     page_icon="🪁",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -60,7 +60,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título principal
-st.markdown('<h2 class="main-header">🪁 Conversor PDF para PDF Pesquisável</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="main-header">🪁 GioPDF - Conversor PDF para PDF Pesquisável</h2>', unsafe_allow_html=True)
 
 # Função para configurar o Tesseract (ajustar caminho conforme necessário)
 def setup_tesseract():
