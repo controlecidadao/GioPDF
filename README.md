@@ -38,7 +38,7 @@ O código **SHA-256** de integridade do arquivo é _b063a11c98a67f04c94fba2858a9
 
 ### 🪛 Instalação
 
-Caso opte em fazer a instalação usando os arquivos contidos no repositório, confira as instruções [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
+Caso opte por fazer a instalação usando os arquivos contidos no repositório, confira as instruções [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
 
 <br><br>
 
