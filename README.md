@@ -37,7 +37,8 @@ O arquivo **_GioPDF.zip_** possui aproximadamente 674MB. O código SHA-256 de in
 
 Caso opte em fazer a instalação usando os arquivos contidos no repositório, confira as instruções [aqui](https://github.com/controlecidadao/GioPDF/blob/main/instala%C3%A7%C3%A3o.txt).
 
-<br>
+<br><br>
+
 
 ### 🛡 Sites seguros para validação de arquivos PDF/A:
 
