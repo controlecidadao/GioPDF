@@ -2,14 +2,18 @@
 COMO INSTALAR O GIOPDF
 ----------------------
 
-1) Crie a pasta "GioPDF"
+Passo a passo:
+
+1) Crie a pasta "GioPDF" no computador
 
 2) Baixe o arquivo ZIP disponível no repositório do projeto:
 https://github.com/controlecidadao/gio_pdf/archive/refs/heads/main.zip
 
-3) Descompacte o arquivo ZIP na pasta GioPDF
+3) Descompacte o arquivo ZIP. Ao descompactar, serão geradas duas pastas "GioPDF-main", uma dentro da outra.
 
-4) Execute o arquivo "setup_miniconda.bat".  Por se tratar de arquivo executável (.bat), o Windows solicitará sua confirmação.
+4) Copie todos os arquivos da pasta "GioPDF-main" para a pasta "GioPDF" criada por você no passo 1.
+
+4) Execute o arquivo "setup_miniconda.bat".  Por se tratar de arquivo executável (.bat), o Windows poderá solicitar sua confirmação.
 Este arquivo:
   * Cria a pasta "Downloads" no diretório local
   * Baixa o Miniconda
